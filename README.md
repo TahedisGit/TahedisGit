@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-👔 Undergraduate student at Daffodil International University.<br> 🔭 I’m currently working on a project named 'Korea to Bangla'.<br>👯 Looking for opportunities.<br>🤝 I’m looking for help with exploring advanced technologies for front-end development.<br>🌱 I’m currently learning Next.js and redux.<br>💬 Ask me about web design and optimization.<br>⚡ Fun fact - i'm lazy but smart.<br> 📫 tahedisoyad054@gmail.com
+👔 Undergraduate student at Daffodil International University.<br>👯 Looking for opportunities.<br>🌱 I’m currently exploring Machine Learning and Artificial Intllegence.<br>⚡ Fun fact - i'm lazy but smart.<br> 📫 tahedisoyad054@gmail.com
 
 
 ## 🌐 Socials:
